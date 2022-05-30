@@ -1,0 +1,16 @@
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\Importando Dados\Importacao_De_Arquivos\Importacao_De_Arquivos\bin\Debug\net5.0\Importacao_De_Arquivos.exe
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\Importando Dados\Importacao_De_Arquivos\Importacao_De_Arquivos\bin\Debug\net5.0\Importacao_De_Arquivos.deps.json
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\Importando Dados\Importacao_De_Arquivos\Importacao_De_Arquivos\bin\Debug\net5.0\Importacao_De_Arquivos.runtimeconfig.json
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\Importando Dados\Importacao_De_Arquivos\Importacao_De_Arquivos\bin\Debug\net5.0\Importacao_De_Arquivos.runtimeconfig.dev.json
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\Importando Dados\Importacao_De_Arquivos\Importacao_De_Arquivos\bin\Debug\net5.0\Importacao_De_Arquivos.dll
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\Importando Dados\Importacao_De_Arquivos\Importacao_De_Arquivos\bin\Debug\net5.0\ref\Importacao_De_Arquivos.dll
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\Importando Dados\Importacao_De_Arquivos\Importacao_De_Arquivos\bin\Debug\net5.0\Importacao_De_Arquivos.pdb
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\Importando Dados\Importacao_De_Arquivos\Importacao_De_Arquivos\obj\Debug\net5.0\Importacao_De_Arquivos.csproj.AssemblyReference.cache
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\Importando Dados\Importacao_De_Arquivos\Importacao_De_Arquivos\obj\Debug\net5.0\Importacao_De_Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\Importando Dados\Importacao_De_Arquivos\Importacao_De_Arquivos\obj\Debug\net5.0\Importacao_De_Arquivos.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\Importando Dados\Importacao_De_Arquivos\Importacao_De_Arquivos\obj\Debug\net5.0\Importacao_De_Arquivos.AssemblyInfo.cs
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\Importando Dados\Importacao_De_Arquivos\Importacao_De_Arquivos\obj\Debug\net5.0\Importacao_De_Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\Importando Dados\Importacao_De_Arquivos\Importacao_De_Arquivos\obj\Debug\net5.0\Importacao_De_Arquivos.dll
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\Importando Dados\Importacao_De_Arquivos\Importacao_De_Arquivos\obj\Debug\net5.0\ref\Importacao_De_Arquivos.dll
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\Importando Dados\Importacao_De_Arquivos\Importacao_De_Arquivos\obj\Debug\net5.0\Importacao_De_Arquivos.pdb
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\Importando Dados\Importacao_De_Arquivos\Importacao_De_Arquivos\obj\Debug\net5.0\Importacao_De_Arquivos.genruntimeconfig.cache
