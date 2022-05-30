@@ -1,0 +1,16 @@
+C:\Users\Andre\Desktop\BootCamp - GFT\Abstração de Jogo RPG\DesafioJogoRPG\DesafioJogoRPG\bin\Debug\net5.0\DesafioJogoRPG.exe
+C:\Users\Andre\Desktop\BootCamp - GFT\Abstração de Jogo RPG\DesafioJogoRPG\DesafioJogoRPG\bin\Debug\net5.0\DesafioJogoRPG.deps.json
+C:\Users\Andre\Desktop\BootCamp - GFT\Abstração de Jogo RPG\DesafioJogoRPG\DesafioJogoRPG\bin\Debug\net5.0\DesafioJogoRPG.runtimeconfig.json
+C:\Users\Andre\Desktop\BootCamp - GFT\Abstração de Jogo RPG\DesafioJogoRPG\DesafioJogoRPG\bin\Debug\net5.0\DesafioJogoRPG.runtimeconfig.dev.json
+C:\Users\Andre\Desktop\BootCamp - GFT\Abstração de Jogo RPG\DesafioJogoRPG\DesafioJogoRPG\bin\Debug\net5.0\DesafioJogoRPG.dll
+C:\Users\Andre\Desktop\BootCamp - GFT\Abstração de Jogo RPG\DesafioJogoRPG\DesafioJogoRPG\bin\Debug\net5.0\ref\DesafioJogoRPG.dll
+C:\Users\Andre\Desktop\BootCamp - GFT\Abstração de Jogo RPG\DesafioJogoRPG\DesafioJogoRPG\bin\Debug\net5.0\DesafioJogoRPG.pdb
+C:\Users\Andre\Desktop\BootCamp - GFT\Abstração de Jogo RPG\DesafioJogoRPG\DesafioJogoRPG\obj\Debug\net5.0\DesafioJogoRPG.csproj.AssemblyReference.cache
+C:\Users\Andre\Desktop\BootCamp - GFT\Abstração de Jogo RPG\DesafioJogoRPG\DesafioJogoRPG\obj\Debug\net5.0\DesafioJogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Desktop\BootCamp - GFT\Abstração de Jogo RPG\DesafioJogoRPG\DesafioJogoRPG\obj\Debug\net5.0\DesafioJogoRPG.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\BootCamp - GFT\Abstração de Jogo RPG\DesafioJogoRPG\DesafioJogoRPG\obj\Debug\net5.0\DesafioJogoRPG.AssemblyInfo.cs
+C:\Users\Andre\Desktop\BootCamp - GFT\Abstração de Jogo RPG\DesafioJogoRPG\DesafioJogoRPG\obj\Debug\net5.0\DesafioJogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\BootCamp - GFT\Abstração de Jogo RPG\DesafioJogoRPG\DesafioJogoRPG\obj\Debug\net5.0\DesafioJogoRPG.dll
+C:\Users\Andre\Desktop\BootCamp - GFT\Abstração de Jogo RPG\DesafioJogoRPG\DesafioJogoRPG\obj\Debug\net5.0\ref\DesafioJogoRPG.dll
+C:\Users\Andre\Desktop\BootCamp - GFT\Abstração de Jogo RPG\DesafioJogoRPG\DesafioJogoRPG\obj\Debug\net5.0\DesafioJogoRPG.pdb
+C:\Users\Andre\Desktop\BootCamp - GFT\Abstração de Jogo RPG\DesafioJogoRPG\DesafioJogoRPG\obj\Debug\net5.0\DesafioJogoRPG.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\StringWriter\StringWriter\StringWriter\bin\Debug\net5.0\StringWriter.exe
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\StringWriter\StringWriter\StringWriter\bin\Debug\net5.0\StringWriter.deps.json
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\StringWriter\StringWriter\StringWriter\bin\Debug\net5.0\StringWriter.runtimeconfig.json
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\StringWriter\StringWriter\StringWriter\bin\Debug\net5.0\StringWriter.runtimeconfig.dev.json
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\StringWriter\StringWriter\StringWriter\bin\Debug\net5.0\StringWriter.dll
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\StringWriter\StringWriter\StringWriter\bin\Debug\net5.0\ref\StringWriter.dll
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\StringWriter\StringWriter\StringWriter\bin\Debug\net5.0\StringWriter.pdb
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\StringWriter\StringWriter\StringWriter\obj\Debug\net5.0\StringWriter.csproj.AssemblyReference.cache
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\StringWriter\StringWriter\StringWriter\obj\Debug\net5.0\StringWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\StringWriter\StringWriter\StringWriter\obj\Debug\net5.0\StringWriter.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\StringWriter\StringWriter\StringWriter\obj\Debug\net5.0\StringWriter.AssemblyInfo.cs
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\StringWriter\StringWriter\StringWriter\obj\Debug\net5.0\StringWriter.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\StringWriter\StringWriter\StringWriter\obj\Debug\net5.0\StringWriter.dll
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\StringWriter\StringWriter\StringWriter\obj\Debug\net5.0\ref\StringWriter.dll
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\StringWriter\StringWriter\StringWriter\obj\Debug\net5.0\StringWriter.pdb
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\StringWriter\StringWriter\StringWriter\obj\Debug\net5.0\StringWriter.genruntimeconfig.cache

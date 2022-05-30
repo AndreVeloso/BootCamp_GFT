@@ -1,0 +1,16 @@
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\obj\Debug\net5.0\StringReader.csproj.AssemblyReference.cache
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\obj\Debug\net5.0\StringReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\obj\Debug\net5.0\StringReader.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\obj\Debug\net5.0\StringReader.AssemblyInfo.cs
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\obj\Debug\net5.0\StringReader.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\bin\Debug\net5.0\StringReader.exe
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\bin\Debug\net5.0\StringReader.deps.json
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\bin\Debug\net5.0\StringReader.runtimeconfig.json
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\bin\Debug\net5.0\StringReader.runtimeconfig.dev.json
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\bin\Debug\net5.0\StringReader.dll
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\bin\Debug\net5.0\ref\StringReader.dll
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\bin\Debug\net5.0\StringReader.pdb
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\obj\Debug\net5.0\StringReader.dll
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\obj\Debug\net5.0\ref\StringReader.dll
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\obj\Debug\net5.0\StringReader.pdb
+C:\Users\Andre\Desktop\BootCamp - GFT\Trabalhando com Arquivos e Stream - C#\obj\Debug\net5.0\StringReader.genruntimeconfig.cache

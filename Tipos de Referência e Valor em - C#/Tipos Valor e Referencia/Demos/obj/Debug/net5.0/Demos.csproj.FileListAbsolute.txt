@@ -1,0 +1,16 @@
+C:\Users\Andre\Desktop\BootCamp - GFT\Tipos de Referência e Valor em C#\Tipos Valor e Referencia\Demos\bin\Debug\net5.0\Demos.exe
+C:\Users\Andre\Desktop\BootCamp - GFT\Tipos de Referência e Valor em C#\Tipos Valor e Referencia\Demos\bin\Debug\net5.0\Demos.deps.json
+C:\Users\Andre\Desktop\BootCamp - GFT\Tipos de Referência e Valor em C#\Tipos Valor e Referencia\Demos\bin\Debug\net5.0\Demos.runtimeconfig.json
+C:\Users\Andre\Desktop\BootCamp - GFT\Tipos de Referência e Valor em C#\Tipos Valor e Referencia\Demos\bin\Debug\net5.0\Demos.runtimeconfig.dev.json
+C:\Users\Andre\Desktop\BootCamp - GFT\Tipos de Referência e Valor em C#\Tipos Valor e Referencia\Demos\bin\Debug\net5.0\Demos.dll
+C:\Users\Andre\Desktop\BootCamp - GFT\Tipos de Referência e Valor em C#\Tipos Valor e Referencia\Demos\bin\Debug\net5.0\ref\Demos.dll
+C:\Users\Andre\Desktop\BootCamp - GFT\Tipos de Referência e Valor em C#\Tipos Valor e Referencia\Demos\bin\Debug\net5.0\Demos.pdb
+C:\Users\Andre\Desktop\BootCamp - GFT\Tipos de Referência e Valor em C#\Tipos Valor e Referencia\Demos\obj\Debug\net5.0\Demos.csproj.AssemblyReference.cache
+C:\Users\Andre\Desktop\BootCamp - GFT\Tipos de Referência e Valor em C#\Tipos Valor e Referencia\Demos\obj\Debug\net5.0\Demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Desktop\BootCamp - GFT\Tipos de Referência e Valor em C#\Tipos Valor e Referencia\Demos\obj\Debug\net5.0\Demos.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\BootCamp - GFT\Tipos de Referência e Valor em C#\Tipos Valor e Referencia\Demos\obj\Debug\net5.0\Demos.AssemblyInfo.cs
+C:\Users\Andre\Desktop\BootCamp - GFT\Tipos de Referência e Valor em C#\Tipos Valor e Referencia\Demos\obj\Debug\net5.0\Demos.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\BootCamp - GFT\Tipos de Referência e Valor em C#\Tipos Valor e Referencia\Demos\obj\Debug\net5.0\Demos.dll
+C:\Users\Andre\Desktop\BootCamp - GFT\Tipos de Referência e Valor em C#\Tipos Valor e Referencia\Demos\obj\Debug\net5.0\ref\Demos.dll
+C:\Users\Andre\Desktop\BootCamp - GFT\Tipos de Referência e Valor em C#\Tipos Valor e Referencia\Demos\obj\Debug\net5.0\Demos.pdb
+C:\Users\Andre\Desktop\BootCamp - GFT\Tipos de Referência e Valor em C#\Tipos Valor e Referencia\Demos\obj\Debug\net5.0\Demos.genruntimeconfig.cache
